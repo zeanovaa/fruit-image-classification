@@ -18,6 +18,20 @@ Proyek ini membangun model klasifikasi gambar buah menggunakan subset **10.400 g
 | Loss | CategoricalCrossentropy (label smoothing 0.1) |
 | Optimizer | Adam |
 
+## Performa Model
+| Kategori | Accuracy |
+|---|---|
+| Training | 99.74% |
+| Testing | 92.88% |
+| Validation | 93.27% |
+| Test Loss | 0.9071 |
+
+## Training History Plot
+<Figure size 1400x500 with 2 Axes><img width="1389" height="495" alt="image" src="https://github.com/user-attachments/assets/f1101572-be04-4cd3-acb6-15b04ab56fe5" />
+
+## Inference
+<Figure size 1300x1300 with 9 Axes><img width="1289" height="1318" alt="image" src="https://github.com/user-attachments/assets/54c9cfc0-6848-4620-9f25-22aa042c67a0" />
+
 ## Struktur Folder
 
 ```
